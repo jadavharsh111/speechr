@@ -2,7 +2,7 @@ speech-input
 ============
 
 Simple speech input for `<input>` elements — replaces deprecated `x-webkit-speech` attribute
-
+#speech-to-text
 ## Use:
 
 1. Include **speech-input.css** and **speech-input.js**
