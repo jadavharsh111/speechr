@@ -8,7 +8,7 @@ Simple speech input for `<input>` elements — replaces deprecated `x-webkit-spe
 1. Include **speech-input.css** and **speech-input.js**
 2. Add an `si-input` class to your input field. 
 3. Wrap the input in a `<div>` with an `si-wrapper` class.
-4. Add a button with an `si-btn` class as a sibling to the input. For the default style use the button markup in the example below:
+4. Add a button with an `si-btn` class as a sibling to the input. For the default style use the button markup in the example 
 
 ```
 <div class="si-wrapper">
